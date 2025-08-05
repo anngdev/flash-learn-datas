@@ -1,0 +1,46 @@
+{
+  "title": "Hệ mặt trời",
+  "description": "AI-generated flashcards about Hệ mặt trời.",
+  "flashcards": [
+    {
+      "front": "Ngôi sao ở trung tâm của hệ mặt trời",
+      "back": "Sun"
+    },
+    {
+      "front": "Hành tinh nhỏ nhất và gần mặt trời nhất",
+      "back": "Mercury"
+    },
+    {
+      "front": "Hành tinh nóng nhất trong hệ mặt trời của chúng ta",
+      "back": "Venus"
+    },
+    {
+      "front": "Hành tinh thứ ba từ Mặt Trời; nơi chúng ta sống",
+      "back": "Earth"
+    },
+    {
+      "front": "Hành tinh thứ tư từ Mặt Trời, còn được gọi là Hành tinh Đỏ",
+      "back": "Mars"
+    },
+    {
+      "front": "Hành tinh lớn nhất trong hệ mặt trời của chúng ta",
+      "back": "Jupiter"
+    },
+    {
+      "front": "Hành tinh có các vòng lớn và dễ thấy nhất",
+      "back": "Saturn"
+    },
+    {
+      "front": "Hành tinh băng giá màu xanh lục lam",
+      "back": "Uranus"
+    },
+    {
+      "front": "Hành tinh xa nhất so với Mặt Trời",
+      "back": "Neptune"
+    },
+    {
+      "front": "Một thiên thể quay quanh một ngôi sao",
+      "back": "Planet"
+    }
+  ]
+}

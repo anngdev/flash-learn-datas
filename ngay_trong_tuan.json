@@ -1,0 +1,42 @@
+{
+  "title": "Ngày trong tuần",
+  "description": "AI-generated flashcards about Ngày trong tuần.",
+  "flashcards": [
+    {
+      "front": "Ngày đầu tuần",
+      "back": "Monday"
+    },
+    {
+      "front": "Ngày thứ ba",
+      "back": "Tuesday"
+    },
+    {
+      "front": "Ngày thứ tư",
+      "back": "Wednesday"
+    },
+    {
+      "front": "Ngày thứ năm",
+      "back": "Thursday"
+    },
+    {
+      "front": "Ngày thứ sáu",
+      "back": "Friday"
+    },
+    {
+      "front": "Ngày thứ bảy",
+      "back": "Saturday"
+    },
+    {
+      "front": "Ngày chủ nhật",
+      "back": "Sunday"
+    },
+    {
+      "front": "Một ngày làm việc (không bao gồm thứ bảy và chủ nhật)",
+      "back": "Weekday"
+    },
+    {
+      "front": "Thứ bảy và chủ nhật",
+      "back": "Weekend"
+    }
+  ]
+}
