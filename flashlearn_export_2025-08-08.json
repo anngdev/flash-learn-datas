@@ -1,0 +1,847 @@
+{
+  "decks": [
+    {
+      "id": "mdyrpqb4-awrd7rq",
+      "title": "Ngày trong tuần",
+      "description": "AI-generated flashcards about Ngày trong tuần.",
+      "flashcards": [
+        {
+          "id": "mdyrpqb4-b7hdm0e",
+          "front": "Ngày thứ 2",
+          "back": "Monday"
+        },
+        {
+          "id": "mdyrpqb4-jdwu9mp",
+          "front": "Ngày thứ ba",
+          "back": "Tuesday"
+        },
+        {
+          "id": "mdyrpqb4-jyavf68",
+          "front": "Ngày thứ tư",
+          "back": "Wednesday"
+        },
+        {
+          "id": "mdyrpqb4-iyqcvd4",
+          "front": "Ngày thứ năm",
+          "back": "Thursday"
+        },
+        {
+          "id": "mdyrpqb4-wdphc0j",
+          "front": "Ngày thứ sáu",
+          "back": "Friday"
+        },
+        {
+          "id": "mdyrpqb4-x4ri072",
+          "front": "Ngày thứ bảy",
+          "back": "Saturday"
+        },
+        {
+          "id": "mdyrpqb4-gzoo7j8",
+          "front": "Ngày chủ nhật",
+          "back": "Sunday"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English",
+      "collectionId": "me172iti-7kov9o6"
+    },
+    {
+      "id": "mdyrpqb5-utt2kiq",
+      "title": "Bộ phận cơ thể",
+      "description": "AI-generated flashcards about Bộ phận cơ thể.",
+      "flashcards": [
+        {
+          "id": "mdyrpqb5-ol1jj7k",
+          "front": "Phần trên cùng của cơ thể, chứa não.",
+          "back": "Head"
+        },
+        {
+          "id": "mdyrpqb5-prvt9kq",
+          "front": "Cơ quan dùng để nhìn.",
+          "back": "Eyes"
+        },
+        {
+          "id": "mdyrpqb5-9vr539b",
+          "front": "Bộ phận dùng để ngửi.",
+          "back": "Nose"
+        },
+        {
+          "id": "mdyrpqb5-rskl06v",
+          "front": "Bộ phận dùng để ăn và nói.",
+          "back": "Mouth"
+        },
+        {
+          "id": "mdyrpqb5-ua69sz1",
+          "front": "Bộ phận dùng để nghe.",
+          "back": "Ears"
+        },
+        {
+          "id": "mdyrpqb5-b3v5d6q",
+          "front": "Bộ phận ở cuối cánh tay, dùng để cầm nắm.",
+          "back": "Hands"
+        },
+        {
+          "id": "mdyrpqb5-ukggtji",
+          "front": "Bộ phận dùng để đi lại, chạy nhảy.",
+          "back": "Legs"
+        },
+        {
+          "id": "mdyrpqb5-5wep8cp",
+          "front": "Phần cuối của chân, dùng để đứng.",
+          "back": "Feet"
+        },
+        {
+          "id": "mdyrpqb5-moet8hl",
+          "front": "Phần kết nối cánh tay với thân mình.",
+          "back": "Shoulders"
+        },
+        {
+          "id": "mdyrpqb5-39r48xr",
+          "front": "Các ngón trên bàn tay.",
+          "back": "Fingers"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English",
+      "collectionId": "me172iti-7kov9o6"
+    },
+    {
+      "id": "mdyrpqb5-y7x0dr9",
+      "title": "Dụng cụ học tập",
+      "description": "AI-generated flashcards about Dụng cụ học tập.",
+      "flashcards": [
+        {
+          "id": "mdyrpqb5-a46cgdk",
+          "front": "Một dụng cụ viết làm bằng chì và gỗ",
+          "back": "Pencil"
+        },
+        {
+          "id": "mdyrpqb5-3bd7t5i",
+          "front": "Dụng cụ để xóa chữ viết bằng bút chì",
+          "back": "Eraser"
+        },
+        {
+          "id": "mdyrpqb5-5x5n2mc",
+          "front": "Một quyển sổ để viết ghi chú",
+          "back": "Notebook"
+        },
+        {
+          "id": "mdyrpqb5-9xy6bjy",
+          "front": "Một dụng cụ để đo và vẽ đường thẳng",
+          "back": "Ruler"
+        },
+        {
+          "id": "mdyrpqb5-63zyjl2",
+          "front": "Một tập hợp các trang giấy có chữ và hình ảnh",
+          "back": "Book"
+        },
+        {
+          "id": "mdyrpqb5-3nxnk3f",
+          "front": "Một dụng cụ viết bằng mực",
+          "back": "Pen"
+        },
+        {
+          "id": "mdyrpqb5-k68p46x",
+          "front": "Bút đánh dấu dòng",
+          "back": "Highlighter"
+        },
+        {
+          "id": "mdyrpqb5-gr9767m",
+          "front": "Một công cụ để thực hiện các phép tính toán",
+          "back": "Calculator"
+        },
+        {
+          "id": "mdyrpqb5-7q40ony",
+          "front": "Một dụng cụ để cắt giấy hoặc vải",
+          "back": "Scissors"
+        },
+        {
+          "id": "mdyrpqb5-qo0e9t7",
+          "front": "Chất dính dùng để dán các vật lại với nhau",
+          "back": "Glue"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English",
+      "collectionId": "me172iti-7kov9o6"
+    },
+    {
+      "id": "mdzcwijh-e7j0d9c",
+      "title": "School",
+      "description": "AI-generated flashcards about School (Japanese to French).",
+      "flashcards": [
+        {
+          "id": "mdzcwijg-y9y6j8m",
+          "front": "学校で教える人",
+          "back": "le professeur"
+        },
+        {
+          "id": "mdzcwijg-wkwiu34",
+          "front": "学校で学ぶ人",
+          "back": "l'élève"
+        },
+        {
+          "id": "mdzcwijg-hsvshad",
+          "front": "授業が行われる部屋",
+          "back": "la salle de classe"
+        },
+        {
+          "id": "mdzcwijg-ba8ikbn",
+          "front": "読むための紙の束",
+          "back": "le livre"
+        },
+        {
+          "id": "mdzcwijg-vjen0n0",
+          "front": "書くための道具、消せる",
+          "back": "le crayon"
+        },
+        {
+          "id": "mdzcwijg-8h5myrh",
+          "front": "生徒が使う机",
+          "back": "le bureau"
+        },
+        {
+          "id": "mdzcwijg-m0yrcmk",
+          "front": "先生が使う黒い板",
+          "back": "le tableau"
+        },
+        {
+          "id": "mdzcwijg-zs299s4",
+          "front": "間違いを消すために使うもの",
+          "back": "la gomme"
+        },
+        {
+          "id": "mdzcwijg-ve7netp",
+          "front": "学ぶ場所",
+          "back": "l'école"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English",
+      "collectionId": "me172iti-7kov9o6"
+    },
+    {
+      "id": "mdzcxj07-qq234j8",
+      "title": "Gia đình",
+      "description": "AI-generated flashcards about Gia đình (Vietnamese to Japanese).",
+      "flashcards": [
+        {
+          "id": "mdzcxj07-o5a9ukc",
+          "front": "Những người có quan hệ huyết thống hoặc hôn nhân với nhau",
+          "back": "家族"
+        },
+        {
+          "id": "mdzcxj07-n13wyqz",
+          "front": "Người đàn ông đã sinh ra mình",
+          "back": "父"
+        },
+        {
+          "id": "mdzcxj07-rnj9ynd",
+          "front": "Người phụ nữ đã sinh ra mình",
+          "back": "母"
+        },
+        {
+          "id": "mdzcxj07-1qrmmru",
+          "front": "Những người con trai có chung cha mẹ",
+          "back": "兄弟"
+        },
+        {
+          "id": "mdzcxj07-t9ix6r9",
+          "front": "Những người con gái có chung cha mẹ",
+          "back": "姉妹"
+        },
+        {
+          "id": "mdzcxj07-km4fuec",
+          "front": "Cha của cha hoặc mẹ",
+          "back": "祖父"
+        },
+        {
+          "id": "mdzcxj07-6tqboj3",
+          "front": "Mẹ của cha hoặc mẹ",
+          "back": "祖母"
+        },
+        {
+          "id": "mdzcxj07-4ahd5pl",
+          "front": "Người phụ nữ kết hôn với một người đàn ông",
+          "back": "妻"
+        },
+        {
+          "id": "mdzcxj07-ogdnz8q",
+          "front": "Người đàn ông kết hôn với một người phụ nữ",
+          "back": "夫"
+        },
+        {
+          "id": "mdzcxj07-civgmzc",
+          "front": "Con cái (trai hoặc gái)",
+          "back": "子供"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English",
+      "collectionId": "me172iti-7kov9o6"
+    },
+    {
+      "id": "me1525tn-yi91mr0",
+      "title": "Hệ mặt trời",
+      "description": "AI-generated flashcards about Hệ mặt trời.",
+      "flashcards": [
+        {
+          "id": "me1525tn-rr1ctsa",
+          "front": "Ngôi sao ở trung tâm của hệ mặt trời",
+          "back": "Sun"
+        },
+        {
+          "id": "me1525tn-1wqzjhq",
+          "front": "Hành tinh nhỏ nhất và gần mặt trời nhất",
+          "back": "Mercury"
+        },
+        {
+          "id": "me1525tn-u5m0w62",
+          "front": "Hành tinh nóng nhất trong hệ mặt trời của chúng ta",
+          "back": "Venus"
+        },
+        {
+          "id": "me1525tn-7us3j6k",
+          "front": "Hành tinh thứ ba từ Mặt Trời; nơi chúng ta sống",
+          "back": "Earth"
+        },
+        {
+          "id": "me1525tn-nwczo4u",
+          "front": "Hành tinh thứ tư từ Mặt Trời, còn được gọi là Hành tinh Đỏ",
+          "back": "Mars"
+        },
+        {
+          "id": "me1525tn-ua5orsx",
+          "front": "Hành tinh lớn nhất trong hệ mặt trời của chúng ta",
+          "back": "Jupiter"
+        },
+        {
+          "id": "me1525tn-sl8n0et",
+          "front": "Hành tinh có các vòng lớn và dễ thấy nhất",
+          "back": "Saturn"
+        },
+        {
+          "id": "me1525tn-heufrbl",
+          "front": "Hành tinh băng giá màu xanh lục lam",
+          "back": "Uranus"
+        },
+        {
+          "id": "me1525tn-h6195nv",
+          "front": "Hành tinh xa nhất so với Mặt Trời",
+          "back": "Neptune"
+        },
+        {
+          "id": "me1525tn-2b5jd1a",
+          "front": "Một thiên thể quay quanh một ngôi sao",
+          "back": "Planet"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English",
+      "collectionId": "me172iti-7kov9o6"
+    },
+    {
+      "id": "me1525tn-ori9wus",
+      "title": "Các môn học",
+      "description": "AI-generated flashcards about Các môn học.",
+      "flashcards": [
+        {
+          "id": "me1525tn-nlnt6hh",
+          "front": "Môn học về số, hình học, và các phép tính",
+          "back": "Math"
+        },
+        {
+          "id": "me1525tn-h5vg8yy",
+          "front": "Môn học về thế giới tự nhiên thông qua quan sát và thí nghiệm",
+          "back": "Science"
+        },
+        {
+          "id": "me1525tn-ogj4dv1",
+          "front": "Môn học về quá khứ, các sự kiện và nhân vật quan trọng",
+          "back": "History"
+        },
+        {
+          "id": "me1525tn-wtu76ci",
+          "front": "Môn học về địa lý, các quốc gia, địa hình và khí hậu",
+          "back": "Geography"
+        },
+        {
+          "id": "me1525tn-dvot1f7",
+          "front": "Môn học về hội họa, điêu khắc và các hình thức biểu đạt sáng tạo",
+          "back": "Art"
+        },
+        {
+          "id": "me1525tn-3t7rooa",
+          "front": "Môn học về âm nhạc, lý thuyết và thực hành",
+          "back": "Music"
+        },
+        {
+          "id": "me1525tn-hhztaaj",
+          "front": "Môn học về máy tính và lập trình",
+          "back": "IT"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English",
+      "collectionId": "me172iti-7kov9o6"
+    },
+    {
+      "id": "me1525tn-r6sasjj",
+      "title": "Sở thích",
+      "description": "AI-generated flashcards about Sở thích.",
+      "flashcards": [
+        {
+          "id": "me1525tn-2g2671p",
+          "front": "Hành động đọc sách, báo hoặc tài liệu khác",
+          "back": "Reading"
+        },
+        {
+          "id": "me1525tn-7rjbl52",
+          "front": "Hoạt động trồng và chăm sóc cây cối",
+          "back": "Gardening"
+        },
+        {
+          "id": "me1525tn-6qg7lqw",
+          "front": "Nấu ăn",
+          "back": "Cooking"
+        },
+        {
+          "id": "me1525tn-nloqczo",
+          "front": "Chụp ảnh",
+          "back": "Photography"
+        },
+        {
+          "id": "me1525tn-u65mc7o",
+          "front": "Đi du lịch",
+          "back": "Traveling"
+        },
+        {
+          "id": "me1525tn-3qvg16g",
+          "front": "Vẽ tranh",
+          "back": "Painting"
+        },
+        {
+          "id": "me1525tn-iuxi9qd",
+          "front": "Hát",
+          "back": "Singing"
+        },
+        {
+          "id": "me1525tn-cm4dr8i",
+          "front": "Nhảy múa",
+          "back": "Dancing"
+        },
+        {
+          "id": "me1525tn-d9eaiy0",
+          "front": "Viết lách",
+          "back": "Writing"
+        },
+        {
+          "id": "me1525tn-smrj22s",
+          "front": "Sưu tầm",
+          "back": "Collecting"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English",
+      "collectionId": "me172iti-7kov9o6"
+    },
+    {
+      "id": "me2mnk53-ha7sj9v",
+      "title": "Ngày trong tuần",
+      "description": "AI-generated flashcards about Ngày trong tuần.",
+      "flashcards": [
+        {
+          "id": "me2mnk53-ku3xr81",
+          "front": "Ngày thứ 2",
+          "back": "Monday"
+        },
+        {
+          "id": "me2mnk53-fbbose1",
+          "front": "Ngày thứ ba",
+          "back": "Tuesday"
+        },
+        {
+          "id": "me2mnk53-eiivba5",
+          "front": "Ngày thứ tư",
+          "back": "Wednesday"
+        },
+        {
+          "id": "me2mnk53-kxp2mgk",
+          "front": "Ngày thứ năm",
+          "back": "Thursday"
+        },
+        {
+          "id": "me2mnk53-oh6hip5",
+          "front": "Ngày thứ sáu",
+          "back": "Friday"
+        },
+        {
+          "id": "me2mnk53-auo0jje",
+          "front": "Ngày thứ bảy",
+          "back": "Saturday"
+        },
+        {
+          "id": "me2mnk53-f11byg7",
+          "front": "Ngày chủ nhật",
+          "back": "Sunday"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English"
+    },
+    {
+      "id": "me2mnk53-h66kvzq",
+      "title": "Hệ mặt trời",
+      "description": "AI-generated flashcards about Hệ mặt trời.",
+      "flashcards": [
+        {
+          "id": "me2mnk53-eewkl9f",
+          "front": "Ngôi sao ở trung tâm của hệ mặt trời",
+          "back": "Sun"
+        },
+        {
+          "id": "me2mnk53-yzp94bn",
+          "front": "Hành tinh nhỏ nhất và gần mặt trời nhất",
+          "back": "Mercury"
+        },
+        {
+          "id": "me2mnk53-coqtl9n",
+          "front": "Hành tinh nóng nhất trong hệ mặt trời của chúng ta",
+          "back": "Venus"
+        },
+        {
+          "id": "me2mnk53-4sg3rsg",
+          "front": "Hành tinh thứ ba từ Mặt Trời; nơi chúng ta sống",
+          "back": "Earth"
+        },
+        {
+          "id": "me2mnk53-lbnz3tr",
+          "front": "Hành tinh thứ tư từ Mặt Trời, còn được gọi là Hành tinh Đỏ",
+          "back": "Mars"
+        },
+        {
+          "id": "me2mnk53-cljixul",
+          "front": "Hành tinh lớn nhất trong hệ mặt trời của chúng ta",
+          "back": "Jupiter"
+        },
+        {
+          "id": "me2mnk53-keeodn2",
+          "front": "Hành tinh có các vòng lớn và dễ thấy nhất",
+          "back": "Saturn"
+        },
+        {
+          "id": "me2mnk53-39miwtg",
+          "front": "Hành tinh băng giá màu xanh lục lam",
+          "back": "Uranus"
+        },
+        {
+          "id": "me2mnk53-44ghbr4",
+          "front": "Hành tinh xa nhất so với Mặt Trời",
+          "back": "Neptune"
+        },
+        {
+          "id": "me2mnk53-06oo6ig",
+          "front": "Một thiên thể quay quanh một ngôi sao",
+          "back": "Planet"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English"
+    },
+    {
+      "id": "me2mnk53-r0j2590",
+      "title": "Các môn học",
+      "description": "AI-generated flashcards about Các môn học.",
+      "flashcards": [
+        {
+          "id": "me2mnk53-v9j3n71",
+          "front": "Môn học về số, hình học, và các phép tính",
+          "back": "Math"
+        },
+        {
+          "id": "me2mnk53-qitw8a0",
+          "front": "Môn học về thế giới tự nhiên thông qua quan sát và thí nghiệm",
+          "back": "Science"
+        },
+        {
+          "id": "me2mnk53-c8f1m1c",
+          "front": "Môn học về quá khứ, các sự kiện và nhân vật quan trọng",
+          "back": "History"
+        },
+        {
+          "id": "me2mnk53-a6k5jcm",
+          "front": "Môn học về địa lý, các quốc gia, địa hình và khí hậu",
+          "back": "Geography"
+        },
+        {
+          "id": "me2mnk53-io0qfji",
+          "front": "Môn học về hội họa, điêu khắc và các hình thức biểu đạt sáng tạo",
+          "back": "Art"
+        },
+        {
+          "id": "me2mnk53-124c2we",
+          "front": "Môn học về âm nhạc, lý thuyết và thực hành",
+          "back": "Music"
+        },
+        {
+          "id": "me2mnk53-58g5zod",
+          "front": "Môn học về máy tính và lập trình",
+          "back": "IT"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English"
+    },
+    {
+      "id": "me2mnk53-1za2mk3",
+      "title": "Gia đình",
+      "description": "AI-generated flashcards about Gia đình.",
+      "flashcards": [
+        {
+          "id": "me2mnk53-7q08zs3",
+          "front": "Người phụ nữ đã sinh ra bạn",
+          "back": "Mother"
+        },
+        {
+          "id": "me2mnk53-6fc664g",
+          "front": "Người đàn ông đã sinh ra bạn",
+          "back": "Father"
+        },
+        {
+          "id": "me2mnk53-sjh0ne8",
+          "front": "Chị hoặc em gái của bạn",
+          "back": "Sister"
+        },
+        {
+          "id": "me2mnk53-uggqs84",
+          "front": "Anh hoặc em trai của bạn",
+          "back": "Brother"
+        },
+        {
+          "id": "me2mnk53-38nibhr",
+          "front": "Mẹ của mẹ hoặc cha bạn",
+          "back": "Grandmother"
+        },
+        {
+          "id": "me2mnk53-sgapul2",
+          "front": "Cha của mẹ hoặc cha bạn",
+          "back": "Grandfather"
+        },
+        {
+          "id": "me2mnk53-urqct4y",
+          "front": "Chị/em gái của cha hoặc mẹ bạn",
+          "back": "Aunt"
+        },
+        {
+          "id": "me2mnk53-aze88fm",
+          "front": "Anh/em trai của cha hoặc mẹ bạn",
+          "back": "Uncle"
+        },
+        {
+          "id": "me2mnk53-d60rg43",
+          "front": "Con của chú, bác, cô, dì, cậu",
+          "back": "Cousin"
+        },
+        {
+          "id": "me2mnk53-5a3db2l",
+          "front": "Một nhóm người có quan hệ huyết thống",
+          "back": "Family"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English"
+    },
+    {
+      "id": "me2mnk53-ca9p44r",
+      "title": "Bộ phận cơ thể",
+      "description": "AI-generated flashcards about Bộ phận cơ thể.",
+      "flashcards": [
+        {
+          "id": "me2mnk53-ifpjr2u",
+          "front": "Phần trên cùng của cơ thể, chứa não.",
+          "back": "Head"
+        },
+        {
+          "id": "me2mnk53-4k8r9pp",
+          "front": "Cơ quan dùng để nhìn.",
+          "back": "Eyes"
+        },
+        {
+          "id": "me2mnk53-740a4lt",
+          "front": "Bộ phận dùng để ngửi.",
+          "back": "Nose"
+        },
+        {
+          "id": "me2mnk53-7rfgogt",
+          "front": "Bộ phận dùng để ăn và nói.",
+          "back": "Mouth"
+        },
+        {
+          "id": "me2mnk53-9f269pu",
+          "front": "Bộ phận dùng để nghe.",
+          "back": "Ears"
+        },
+        {
+          "id": "me2mnk53-65soh9z",
+          "front": "Bộ phận ở cuối cánh tay, dùng để cầm nắm.",
+          "back": "Hands"
+        },
+        {
+          "id": "me2mnk53-5idrn4d",
+          "front": "Bộ phận dùng để đi lại, chạy nhảy.",
+          "back": "Legs"
+        },
+        {
+          "id": "me2mnk53-sz4f44c",
+          "front": "Phần cuối của chân, dùng để đứng.",
+          "back": "Feet"
+        },
+        {
+          "id": "me2mnk53-riecq6c",
+          "front": "Phần kết nối cánh tay với thân mình.",
+          "back": "Shoulders"
+        },
+        {
+          "id": "me2mnk53-9c6io1e",
+          "front": "Các ngón trên bàn tay.",
+          "back": "Fingers"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English"
+    },
+    {
+      "id": "me2mnk53-65ttzi2",
+      "title": "Dụng cụ học tập",
+      "description": "AI-generated flashcards about Dụng cụ học tập.",
+      "flashcards": [
+        {
+          "id": "me2mnk53-bad1u4n",
+          "front": "Một dụng cụ viết làm bằng chì và gỗ",
+          "back": "Pencil"
+        },
+        {
+          "id": "me2mnk53-9a9xgr7",
+          "front": "Dụng cụ để xóa chữ viết bằng bút chì",
+          "back": "Eraser"
+        },
+        {
+          "id": "me2mnk53-93kfh9h",
+          "front": "Một quyển sổ để viết ghi chú",
+          "back": "Notebook"
+        },
+        {
+          "id": "me2mnk53-s98qw2r",
+          "front": "Một dụng cụ để đo và vẽ đường thẳng",
+          "back": "Ruler"
+        },
+        {
+          "id": "me2mnk53-hcnxohs",
+          "front": "Một tập hợp các trang giấy có chữ và hình ảnh",
+          "back": "Book"
+        },
+        {
+          "id": "me2mnk53-840qv5h",
+          "front": "Một dụng cụ viết bằng mực",
+          "back": "Pen"
+        },
+        {
+          "id": "me2mnk53-xw38uir",
+          "front": "Bút đánh dấu dòng",
+          "back": "Highlighter"
+        },
+        {
+          "id": "me2mnk53-7pk6x10",
+          "front": "Một công cụ để thực hiện các phép tính toán",
+          "back": "Calculator"
+        },
+        {
+          "id": "me2mnk53-2mq6mrj",
+          "front": "Một dụng cụ để cắt giấy hoặc vải",
+          "back": "Scissors"
+        },
+        {
+          "id": "me2mnk53-lxc8jt4",
+          "front": "Chất dính dùng để dán các vật lại với nhau",
+          "back": "Glue"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English"
+    },
+    {
+      "id": "me2mnk53-h0eqyr6",
+      "title": "Sở thích",
+      "description": "AI-generated flashcards about Sở thích.",
+      "flashcards": [
+        {
+          "id": "me2mnk53-2kor9tk",
+          "front": "Hành động đọc sách, báo hoặc tài liệu khác",
+          "back": "Reading"
+        },
+        {
+          "id": "me2mnk53-x3e1sgf",
+          "front": "Hoạt động trồng và chăm sóc cây cối",
+          "back": "Gardening"
+        },
+        {
+          "id": "me2mnk53-utzbbfh",
+          "front": "Nấu ăn",
+          "back": "Cooking"
+        },
+        {
+          "id": "me2mnk53-fbdefg4",
+          "front": "Chụp ảnh",
+          "back": "Photography"
+        },
+        {
+          "id": "me2mnk53-ajs8xti",
+          "front": "Đi du lịch",
+          "back": "Traveling"
+        },
+        {
+          "id": "me2mnk53-yp2mywd",
+          "front": "Vẽ tranh",
+          "back": "Painting"
+        },
+        {
+          "id": "me2mnk53-1xx7y1z",
+          "front": "Hát",
+          "back": "Singing"
+        },
+        {
+          "id": "me2mnk53-tn4f9ya",
+          "front": "Nhảy múa",
+          "back": "Dancing"
+        },
+        {
+          "id": "me2mnk53-zhk12g7",
+          "front": "Viết lách",
+          "back": "Writing"
+        },
+        {
+          "id": "me2mnk53-mwvsv57",
+          "front": "Sưu tầm",
+          "back": "Collecting"
+        }
+      ],
+      "timerDuration": 30,
+      "targetLanguage": "English",
+      "nativeLanguage": "English"
+    }
+  ]
+}
